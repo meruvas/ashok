@@ -1,5 +1,0 @@
-this is my new file 
-adding devops content
-for future purpose ..
-indicating various courses necessary to
-become a devops enginerr........
